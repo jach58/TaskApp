@@ -1,0 +1,35 @@
+.taskSchedulerWrapper {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
+
+.border-top-left-bottomright
+{
+  border : solid 1px grey;
+}
+
+.width100 {
+  width: 100%;
+}
+
+.horizontal-layout-94{
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  width:94%;
+  height : 100%;
+}
+
+.horizontal-layout-4{
+  display: inline-block;
+  vertical-align: top;
+  width:4%;
+  height:100%;
+}
+
+.datePickerImage {
+    width: 1.2rem;
+    height: 1rem;
+    cursor: pointer;
+}
